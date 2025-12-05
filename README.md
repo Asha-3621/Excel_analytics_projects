@@ -1,14 +1,10 @@
-**📌 About this REPOSITORY**
-These analytics projects were developed as part of hands-on learning and skill building in Excel.
-They demonstrate how Excel can be effectively used for business intelligence, financial assessment,
-and decision-support analysis—without relying on advanced BI tools.
-The repository includes work across Sales Analytics, Finance Analytics, Hospitality Analytics, Personal Finance, and Project Planning. 
-Each section is designed to address key business questions using structured Excel reports, pivot analyses, and simplified dashboards.
+# **📊Sales and Finance Analytics in Excel**
 
-**1.💰 Finance Analytics**
+**💰 Finance Analytics**
 
-This folder contains financial performance reports designed to evaluate revenue, cost, and profitability across multiple fiscal years. 
-The analysis focuses on understanding how key financial metrics changed over time and how different periods contributed to overall results.
+This folder contains financial performance reports designed to evaluate revenue, cost, and profitability across multiple fiscal years. The analysis focuses on understanding how key financial metrics changed over time and how different periods contributed to overall results.
+(Reference: financial dataset. 
+
 
 **📌 Scope of Analysis**
 
@@ -35,10 +31,9 @@ The analysis focuses on understanding how key financial metrics changed over tim
 
 The Finance Analytics files provide a reliable summary of profitability trends, margin behavior, and financial growth, supporting budgeting and long-term planning.
 
-**2.📈 Sales Analytics**
+# **📈 Sales Analytics**
 
-This folder includes sales performance reports intended to measure how different customers and markets performed over a three-year period. 
-The analysis evaluates growth trends and compares actual results against business targets.
+This folder includes sales performance reports intended to measure how different customers and markets performed over a three-year period. The analysis evaluates growth trends and compares actual results against business targets.
 
 **📌 Scope of Analysis**
 
