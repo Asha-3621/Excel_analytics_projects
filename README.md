@@ -31,9 +31,6 @@ This folder contains financial performance reports designed to evaluate revenue,
 
 The Finance Analytics files provide a reliable summary of profitability trends, margin behavior, and financial growth, supporting budgeting and long-term planning.
 
-**Reports**
-[GM % By Quarter](https://is.gd/gmquarter)
-
 
 # **📈 Sales Analytics**
 
@@ -63,3 +60,30 @@ This folder includes sales performance reports intended to measure how different
 **🏁 Conclusion**
 
 The Sales Analytics reports provide a structured view of market performance, growth trends, and target alignment, enabling informed sales planning and monitoring.
+
+**🏨 Hospitality Analytics**
+
+This folder includes reports on booking platforms and property performance.
+
+**📌 Scope**
+
+. Weekly bookings and revenue by platform 
+
+. Property-wise bookings, revenue, and average ratings 
+
+**🏁 Summary**
+
+Identifies top-performing platforms and properties across different weeks and months.
+
+# **🗂️ Project Planning Tools**
+
+It contains Excel tools for evaluating and prioritizing projects.
+
+**📌 Scope**
+
+. Project Priority Matrix with scoring for feasibility, impact, and size 
+
+. Scenario tool showing best, realistic, and worst-case financial outcomes 
+
+**🏁 Summary**
+Helps rank projects and assess financial results under multiple scenarios.
